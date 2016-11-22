@@ -1,0 +1,14 @@
+D:\vs2015\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe.config
+D:\vs2015\SlotMachine\SlotMachine\bin\Debug\SlotMachine.exe
+D:\vs2015\SlotMachine\SlotMachine\bin\Debug\SlotMachine.pdb
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csprojResolveAssemblyReference.cache
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\MainWindow.g.cs
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\App.g.cs
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\SlotMachine_MarkupCompile.cache
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\SlotMachine_MarkupCompile.lref
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\MainWindow.baml
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\SlotMachine.g.resources
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\SlotMachine.Properties.Resources.resources
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\SlotMachine.csproj.GenerateResource.Cache
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\SlotMachine.exe
+D:\vs2015\SlotMachine\SlotMachine\obj\Debug\SlotMachine.pdb
